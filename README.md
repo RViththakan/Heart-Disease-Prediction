@@ -1,3 +1,5 @@
+**Heart Disease Prediction - Group 12**
+
 **Description:**
 This GitHub repository hosts a comprehensive machine learning project focused on predicting heart disease. Leveraging a diverse dataset encompassing various health parameters and medical records, the project aims to develop accurate predictive models for early detection and intervention.
 
